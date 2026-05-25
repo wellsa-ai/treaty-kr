@@ -1,0 +1,23 @@
+---
+조약명: 경제협력개발기구에 관한 협약 (OECD)
+조약번호: '1358'
+발효일자: '1961-09-30'
+조약구분명: 다자조약
+관보게제일자: '1996-12-18'
+조약일련번호: '2263'
+상세링크: https://www.law.go.kr/DRF/lawService.do?OC=wellsa-ai&target=trty&ID=2263&type=HTML&mobileYn=
+---
+
+# 경제협력개발기구에 관한 협약 (OECD)
+
+> **본문 미수집 단계.** 메타데이터만 보유. 본문 fetch (HTML iframe 파싱)는 별도 파이프라인에서 진행 예정.
+
+## 메타
+
+- **조약명**: 경제협력개발기구에 관한 협약 (OECD)
+- **조약번호**: 1358
+- **발효일자**: 1961-09-30
+- **조약구분명**: 다자조약
+- **관보게제일자**: 1996-12-18
+- **조약일련번호**: 2263
+- **상세링크**: [1358](https://www.law.go.kr/DRF/lawService.do?OC=wellsa-ai&target=trty&ID=2263&type=HTML&mobileYn=)

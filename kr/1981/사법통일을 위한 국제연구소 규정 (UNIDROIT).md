@@ -1,0 +1,23 @@
+---
+조약명: 사법통일을 위한 국제연구소 규정 (UNIDROIT)
+조약번호: '757'
+발효일자: '1981-06-25'
+조약구분명: 다자조약
+관보게제일자: '1981-07-01'
+조약일련번호: '330'
+상세링크: https://www.law.go.kr/DRF/lawService.do?OC=wellsa-ai&target=trty&ID=330&type=HTML&mobileYn=
+---
+
+# 사법통일을 위한 국제연구소 규정 (UNIDROIT)
+
+> **본문 미수집 단계.** 메타데이터만 보유. 본문 fetch (HTML iframe 파싱)는 별도 파이프라인에서 진행 예정.
+
+## 메타
+
+- **조약명**: 사법통일을 위한 국제연구소 규정 (UNIDROIT)
+- **조약번호**: 757
+- **발효일자**: 1981-06-25
+- **조약구분명**: 다자조약
+- **관보게제일자**: 1981-07-01
+- **조약일련번호**: 330
+- **상세링크**: [757](https://www.law.go.kr/DRF/lawService.do?OC=wellsa-ai&target=trty&ID=330&type=HTML&mobileYn=)
